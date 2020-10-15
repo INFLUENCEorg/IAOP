@@ -1,0 +1,6242 @@
+a1:
+  initial_dist:
+  - 0.5
+  - 0.5
+  parents: []
+  values: &id001
+  - 0
+  - 1
+a10:
+  initial_dist:
+  - 0.5
+  - 0.5
+  parents: []
+  values: *id001
+a11:
+  initial_dist:
+  - 0.5
+  - 0.5
+  parents: []
+  values: *id001
+a12:
+  initial_dist:
+  - 0.5
+  - 0.5
+  parents: []
+  values: *id001
+a13:
+  initial_dist:
+  - 0.5
+  - 0.5
+  parents: []
+  values: *id001
+a14:
+  initial_dist:
+  - 0.5
+  - 0.5
+  parents: []
+  values: *id001
+a15:
+  initial_dist:
+  - 0.5
+  - 0.5
+  parents: []
+  values: *id001
+a16:
+  initial_dist:
+  - 0.5
+  - 0.5
+  parents: []
+  values: *id001
+a17:
+  initial_dist:
+  - 0.5
+  - 0.5
+  parents: []
+  values: *id001
+a18:
+  initial_dist:
+  - 0.5
+  - 0.5
+  parents: []
+  values: *id001
+a19:
+  initial_dist:
+  - 0.5
+  - 0.5
+  parents: []
+  values: *id001
+a2:
+  initial_dist:
+  - 0.5
+  - 0.5
+  parents: []
+  values: *id001
+a20:
+  initial_dist:
+  - 0.5
+  - 0.5
+  parents: []
+  values: *id001
+a21:
+  initial_dist:
+  - 0.5
+  - 0.5
+  parents: []
+  values: *id001
+a22:
+  initial_dist:
+  - 0.5
+  - 0.5
+  parents: []
+  values: *id001
+a23:
+  initial_dist:
+  - 0.5
+  - 0.5
+  parents: []
+  values: *id001
+a24:
+  initial_dist:
+  - 0.5
+  - 0.5
+  parents: []
+  values: *id001
+a25:
+  initial_dist:
+  - 0.5
+  - 0.5
+  parents: []
+  values: *id001
+a26:
+  initial_dist:
+  - 0.5
+  - 0.5
+  parents: []
+  values: *id001
+a27:
+  initial_dist:
+  - 0.5
+  - 0.5
+  parents: []
+  values: *id001
+a28:
+  initial_dist:
+  - 0.5
+  - 0.5
+  parents: []
+  values: *id001
+a29:
+  initial_dist:
+  - 0.5
+  - 0.5
+  parents: []
+  values: *id001
+a3:
+  initial_dist:
+  - 0.5
+  - 0.5
+  parents: []
+  values: *id001
+a30:
+  initial_dist:
+  - 0.5
+  - 0.5
+  parents: []
+  values: *id001
+a31:
+  initial_dist:
+  - 0.5
+  - 0.5
+  parents: []
+  values: *id001
+a32:
+  initial_dist:
+  - 0.5
+  - 0.5
+  parents: []
+  values: *id001
+a33:
+  initial_dist:
+  - 0.5
+  - 0.5
+  parents: []
+  values: *id001
+a34:
+  initial_dist:
+  - 0.5
+  - 0.5
+  parents: []
+  values: *id001
+a35:
+  initial_dist:
+  - 0.5
+  - 0.5
+  parents: []
+  values: *id001
+a36:
+  initial_dist:
+  - 0.5
+  - 0.5
+  parents: []
+  values: *id001
+a37:
+  initial_dist:
+  - 0.5
+  - 0.5
+  parents: []
+  values: *id001
+a38:
+  initial_dist:
+  - 0.5
+  - 0.5
+  parents: []
+  values: *id001
+a39:
+  initial_dist:
+  - 0.5
+  - 0.5
+  parents: []
+  values: *id001
+a4:
+  initial_dist:
+  - 0.5
+  - 0.5
+  parents: []
+  values: *id001
+a40:
+  initial_dist:
+  - 0.5
+  - 0.5
+  parents: []
+  values: *id001
+a41:
+  initial_dist:
+  - 0.5
+  - 0.5
+  parents: []
+  values: *id001
+a42:
+  initial_dist:
+  - 0.5
+  - 0.5
+  parents: []
+  values: *id001
+a43:
+  initial_dist:
+  - 0.5
+  - 0.5
+  parents: []
+  values: *id001
+a44:
+  initial_dist:
+  - 0.5
+  - 0.5
+  parents: []
+  values: *id001
+a45:
+  initial_dist:
+  - 0.5
+  - 0.5
+  parents: []
+  values: *id001
+a46:
+  initial_dist:
+  - 0.5
+  - 0.5
+  parents: []
+  values: *id001
+a47:
+  initial_dist:
+  - 0.5
+  - 0.5
+  parents: []
+  values: *id001
+a48:
+  initial_dist:
+  - 0.5
+  - 0.5
+  parents: []
+  values: *id001
+a49:
+  initial_dist:
+  - 0.5
+  - 0.5
+  parents: []
+  values: *id001
+a5:
+  initial_dist:
+  - 0.5
+  - 0.5
+  parents: []
+  values: *id001
+a50:
+  initial_dist:
+  - 0.5
+  - 0.5
+  parents: []
+  values: *id001
+a51:
+  initial_dist:
+  - 0.5
+  - 0.5
+  parents: []
+  values: *id001
+a52:
+  initial_dist:
+  - 0.5
+  - 0.5
+  parents: []
+  values: *id001
+a53:
+  initial_dist:
+  - 0.5
+  - 0.5
+  parents: []
+  values: *id001
+a54:
+  initial_dist:
+  - 0.5
+  - 0.5
+  parents: []
+  values: *id001
+a55:
+  initial_dist:
+  - 0.5
+  - 0.5
+  parents: []
+  values: *id001
+a56:
+  initial_dist:
+  - 0.5
+  - 0.5
+  parents: []
+  values: *id001
+a57:
+  initial_dist:
+  - 0.5
+  - 0.5
+  parents: []
+  values: *id001
+a58:
+  initial_dist:
+  - 0.5
+  - 0.5
+  parents: []
+  values: *id001
+a59:
+  initial_dist:
+  - 0.5
+  - 0.5
+  parents: []
+  values: *id001
+a6:
+  initial_dist:
+  - 0.5
+  - 0.5
+  parents: []
+  values: *id001
+a60:
+  initial_dist:
+  - 0.5
+  - 0.5
+  parents: []
+  values: *id001
+a61:
+  initial_dist:
+  - 0.5
+  - 0.5
+  parents: []
+  values: *id001
+a62:
+  initial_dist:
+  - 0.5
+  - 0.5
+  parents: []
+  values: *id001
+a63:
+  initial_dist:
+  - 0.5
+  - 0.5
+  parents: []
+  values: *id001
+a64:
+  initial_dist:
+  - 0.5
+  - 0.5
+  parents: []
+  values: *id001
+a65:
+  initial_dist:
+  - 0.5
+  - 0.5
+  parents: []
+  values: *id001
+a7:
+  initial_dist:
+  - 0.5
+  - 0.5
+  parents: []
+  values: *id001
+a8:
+  initial_dist:
+  - 0.5
+  - 0.5
+  parents: []
+  values: *id001
+a9:
+  initial_dist:
+  - 0.5
+  - 0.5
+  parents: []
+  values: *id001
+o1:
+  CPT:
+    ? !!python/tuple
+    - 0
+    : - 0.8
+      - 0.2
+    ? !!python/tuple
+    - 1
+    : - 0.2
+      - 0.8
+  mode: CPT
+  parents:
+  - x1'
+  values: *id001
+o10:
+  CPT:
+    ? !!python/tuple
+    - 0
+    : - 0.8
+      - 0.2
+    ? !!python/tuple
+    - 1
+    : - 0.2
+      - 0.8
+  mode: CPT
+  parents:
+  - x10'
+  values: *id001
+o11:
+  CPT:
+    ? !!python/tuple
+    - 0
+    : - 0.8
+      - 0.2
+    ? !!python/tuple
+    - 1
+    : - 0.2
+      - 0.8
+  mode: CPT
+  parents:
+  - x11'
+  values: *id001
+o12:
+  CPT:
+    ? !!python/tuple
+    - 0
+    : - 0.8
+      - 0.2
+    ? !!python/tuple
+    - 1
+    : - 0.2
+      - 0.8
+  mode: CPT
+  parents:
+  - x12'
+  values: *id001
+o13:
+  CPT:
+    ? !!python/tuple
+    - 0
+    : - 0.8
+      - 0.2
+    ? !!python/tuple
+    - 1
+    : - 0.2
+      - 0.8
+  mode: CPT
+  parents:
+  - x13'
+  values: *id001
+o14:
+  CPT:
+    ? !!python/tuple
+    - 0
+    : - 0.8
+      - 0.2
+    ? !!python/tuple
+    - 1
+    : - 0.2
+      - 0.8
+  mode: CPT
+  parents:
+  - x14'
+  values: *id001
+o15:
+  CPT:
+    ? !!python/tuple
+    - 0
+    : - 0.8
+      - 0.2
+    ? !!python/tuple
+    - 1
+    : - 0.2
+      - 0.8
+  mode: CPT
+  parents:
+  - x15'
+  values: *id001
+o16:
+  CPT:
+    ? !!python/tuple
+    - 0
+    : - 0.8
+      - 0.2
+    ? !!python/tuple
+    - 1
+    : - 0.2
+      - 0.8
+  mode: CPT
+  parents:
+  - x16'
+  values: *id001
+o17:
+  CPT:
+    ? !!python/tuple
+    - 0
+    : - 0.8
+      - 0.2
+    ? !!python/tuple
+    - 1
+    : - 0.2
+      - 0.8
+  mode: CPT
+  parents:
+  - x17'
+  values: *id001
+o18:
+  CPT:
+    ? !!python/tuple
+    - 0
+    : - 0.8
+      - 0.2
+    ? !!python/tuple
+    - 1
+    : - 0.2
+      - 0.8
+  mode: CPT
+  parents:
+  - x18'
+  values: *id001
+o19:
+  CPT:
+    ? !!python/tuple
+    - 0
+    : - 0.8
+      - 0.2
+    ? !!python/tuple
+    - 1
+    : - 0.2
+      - 0.8
+  mode: CPT
+  parents:
+  - x19'
+  values: *id001
+o2:
+  CPT:
+    ? !!python/tuple
+    - 0
+    : - 0.8
+      - 0.2
+    ? !!python/tuple
+    - 1
+    : - 0.2
+      - 0.8
+  mode: CPT
+  parents:
+  - x2'
+  values: *id001
+o20:
+  CPT:
+    ? !!python/tuple
+    - 0
+    : - 0.8
+      - 0.2
+    ? !!python/tuple
+    - 1
+    : - 0.2
+      - 0.8
+  mode: CPT
+  parents:
+  - x20'
+  values: *id001
+o21:
+  CPT:
+    ? !!python/tuple
+    - 0
+    : - 0.8
+      - 0.2
+    ? !!python/tuple
+    - 1
+    : - 0.2
+      - 0.8
+  mode: CPT
+  parents:
+  - x21'
+  values: *id001
+o22:
+  CPT:
+    ? !!python/tuple
+    - 0
+    : - 0.8
+      - 0.2
+    ? !!python/tuple
+    - 1
+    : - 0.2
+      - 0.8
+  mode: CPT
+  parents:
+  - x22'
+  values: *id001
+o23:
+  CPT:
+    ? !!python/tuple
+    - 0
+    : - 0.8
+      - 0.2
+    ? !!python/tuple
+    - 1
+    : - 0.2
+      - 0.8
+  mode: CPT
+  parents:
+  - x23'
+  values: *id001
+o24:
+  CPT:
+    ? !!python/tuple
+    - 0
+    : - 0.8
+      - 0.2
+    ? !!python/tuple
+    - 1
+    : - 0.2
+      - 0.8
+  mode: CPT
+  parents:
+  - x24'
+  values: *id001
+o25:
+  CPT:
+    ? !!python/tuple
+    - 0
+    : - 0.8
+      - 0.2
+    ? !!python/tuple
+    - 1
+    : - 0.2
+      - 0.8
+  mode: CPT
+  parents:
+  - x25'
+  values: *id001
+o26:
+  CPT:
+    ? !!python/tuple
+    - 0
+    : - 0.8
+      - 0.2
+    ? !!python/tuple
+    - 1
+    : - 0.2
+      - 0.8
+  mode: CPT
+  parents:
+  - x26'
+  values: *id001
+o27:
+  CPT:
+    ? !!python/tuple
+    - 0
+    : - 0.8
+      - 0.2
+    ? !!python/tuple
+    - 1
+    : - 0.2
+      - 0.8
+  mode: CPT
+  parents:
+  - x27'
+  values: *id001
+o28:
+  CPT:
+    ? !!python/tuple
+    - 0
+    : - 0.8
+      - 0.2
+    ? !!python/tuple
+    - 1
+    : - 0.2
+      - 0.8
+  mode: CPT
+  parents:
+  - x28'
+  values: *id001
+o29:
+  CPT:
+    ? !!python/tuple
+    - 0
+    : - 0.8
+      - 0.2
+    ? !!python/tuple
+    - 1
+    : - 0.2
+      - 0.8
+  mode: CPT
+  parents:
+  - x29'
+  values: *id001
+o3:
+  CPT:
+    ? !!python/tuple
+    - 0
+    : - 0.8
+      - 0.2
+    ? !!python/tuple
+    - 1
+    : - 0.2
+      - 0.8
+  mode: CPT
+  parents:
+  - x3'
+  values: *id001
+o30:
+  CPT:
+    ? !!python/tuple
+    - 0
+    : - 0.8
+      - 0.2
+    ? !!python/tuple
+    - 1
+    : - 0.2
+      - 0.8
+  mode: CPT
+  parents:
+  - x30'
+  values: *id001
+o31:
+  CPT:
+    ? !!python/tuple
+    - 0
+    : - 0.8
+      - 0.2
+    ? !!python/tuple
+    - 1
+    : - 0.2
+      - 0.8
+  mode: CPT
+  parents:
+  - x31'
+  values: *id001
+o32:
+  CPT:
+    ? !!python/tuple
+    - 0
+    : - 0.8
+      - 0.2
+    ? !!python/tuple
+    - 1
+    : - 0.2
+      - 0.8
+  mode: CPT
+  parents:
+  - x32'
+  values: *id001
+o33:
+  CPT:
+    ? !!python/tuple
+    - 0
+    : - 0.8
+      - 0.2
+    ? !!python/tuple
+    - 1
+    : - 0.2
+      - 0.8
+  mode: CPT
+  parents:
+  - x33'
+  values: *id001
+o34:
+  CPT:
+    ? !!python/tuple
+    - 0
+    : - 0.8
+      - 0.2
+    ? !!python/tuple
+    - 1
+    : - 0.2
+      - 0.8
+  mode: CPT
+  parents:
+  - x34'
+  values: *id001
+o35:
+  CPT:
+    ? !!python/tuple
+    - 0
+    : - 0.8
+      - 0.2
+    ? !!python/tuple
+    - 1
+    : - 0.2
+      - 0.8
+  mode: CPT
+  parents:
+  - x35'
+  values: *id001
+o36:
+  CPT:
+    ? !!python/tuple
+    - 0
+    : - 0.8
+      - 0.2
+    ? !!python/tuple
+    - 1
+    : - 0.2
+      - 0.8
+  mode: CPT
+  parents:
+  - x36'
+  values: *id001
+o37:
+  CPT:
+    ? !!python/tuple
+    - 0
+    : - 0.8
+      - 0.2
+    ? !!python/tuple
+    - 1
+    : - 0.2
+      - 0.8
+  mode: CPT
+  parents:
+  - x37'
+  values: *id001
+o38:
+  CPT:
+    ? !!python/tuple
+    - 0
+    : - 0.8
+      - 0.2
+    ? !!python/tuple
+    - 1
+    : - 0.2
+      - 0.8
+  mode: CPT
+  parents:
+  - x38'
+  values: *id001
+o39:
+  CPT:
+    ? !!python/tuple
+    - 0
+    : - 0.8
+      - 0.2
+    ? !!python/tuple
+    - 1
+    : - 0.2
+      - 0.8
+  mode: CPT
+  parents:
+  - x39'
+  values: *id001
+o4:
+  CPT:
+    ? !!python/tuple
+    - 0
+    : - 0.8
+      - 0.2
+    ? !!python/tuple
+    - 1
+    : - 0.2
+      - 0.8
+  mode: CPT
+  parents:
+  - x4'
+  values: *id001
+o40:
+  CPT:
+    ? !!python/tuple
+    - 0
+    : - 0.8
+      - 0.2
+    ? !!python/tuple
+    - 1
+    : - 0.2
+      - 0.8
+  mode: CPT
+  parents:
+  - x40'
+  values: *id001
+o41:
+  CPT:
+    ? !!python/tuple
+    - 0
+    : - 0.8
+      - 0.2
+    ? !!python/tuple
+    - 1
+    : - 0.2
+      - 0.8
+  mode: CPT
+  parents:
+  - x41'
+  values: *id001
+o42:
+  CPT:
+    ? !!python/tuple
+    - 0
+    : - 0.8
+      - 0.2
+    ? !!python/tuple
+    - 1
+    : - 0.2
+      - 0.8
+  mode: CPT
+  parents:
+  - x42'
+  values: *id001
+o43:
+  CPT:
+    ? !!python/tuple
+    - 0
+    : - 0.8
+      - 0.2
+    ? !!python/tuple
+    - 1
+    : - 0.2
+      - 0.8
+  mode: CPT
+  parents:
+  - x43'
+  values: *id001
+o44:
+  CPT:
+    ? !!python/tuple
+    - 0
+    : - 0.8
+      - 0.2
+    ? !!python/tuple
+    - 1
+    : - 0.2
+      - 0.8
+  mode: CPT
+  parents:
+  - x44'
+  values: *id001
+o45:
+  CPT:
+    ? !!python/tuple
+    - 0
+    : - 0.8
+      - 0.2
+    ? !!python/tuple
+    - 1
+    : - 0.2
+      - 0.8
+  mode: CPT
+  parents:
+  - x45'
+  values: *id001
+o46:
+  CPT:
+    ? !!python/tuple
+    - 0
+    : - 0.8
+      - 0.2
+    ? !!python/tuple
+    - 1
+    : - 0.2
+      - 0.8
+  mode: CPT
+  parents:
+  - x46'
+  values: *id001
+o47:
+  CPT:
+    ? !!python/tuple
+    - 0
+    : - 0.8
+      - 0.2
+    ? !!python/tuple
+    - 1
+    : - 0.2
+      - 0.8
+  mode: CPT
+  parents:
+  - x47'
+  values: *id001
+o48:
+  CPT:
+    ? !!python/tuple
+    - 0
+    : - 0.8
+      - 0.2
+    ? !!python/tuple
+    - 1
+    : - 0.2
+      - 0.8
+  mode: CPT
+  parents:
+  - x48'
+  values: *id001
+o49:
+  CPT:
+    ? !!python/tuple
+    - 0
+    : - 0.8
+      - 0.2
+    ? !!python/tuple
+    - 1
+    : - 0.2
+      - 0.8
+  mode: CPT
+  parents:
+  - x49'
+  values: *id001
+o5:
+  CPT:
+    ? !!python/tuple
+    - 0
+    : - 0.8
+      - 0.2
+    ? !!python/tuple
+    - 1
+    : - 0.2
+      - 0.8
+  mode: CPT
+  parents:
+  - x5'
+  values: *id001
+o50:
+  CPT:
+    ? !!python/tuple
+    - 0
+    : - 0.8
+      - 0.2
+    ? !!python/tuple
+    - 1
+    : - 0.2
+      - 0.8
+  mode: CPT
+  parents:
+  - x50'
+  values: *id001
+o51:
+  CPT:
+    ? !!python/tuple
+    - 0
+    : - 0.8
+      - 0.2
+    ? !!python/tuple
+    - 1
+    : - 0.2
+      - 0.8
+  mode: CPT
+  parents:
+  - x51'
+  values: *id001
+o52:
+  CPT:
+    ? !!python/tuple
+    - 0
+    : - 0.8
+      - 0.2
+    ? !!python/tuple
+    - 1
+    : - 0.2
+      - 0.8
+  mode: CPT
+  parents:
+  - x52'
+  values: *id001
+o53:
+  CPT:
+    ? !!python/tuple
+    - 0
+    : - 0.8
+      - 0.2
+    ? !!python/tuple
+    - 1
+    : - 0.2
+      - 0.8
+  mode: CPT
+  parents:
+  - x53'
+  values: *id001
+o54:
+  CPT:
+    ? !!python/tuple
+    - 0
+    : - 0.8
+      - 0.2
+    ? !!python/tuple
+    - 1
+    : - 0.2
+      - 0.8
+  mode: CPT
+  parents:
+  - x54'
+  values: *id001
+o55:
+  CPT:
+    ? !!python/tuple
+    - 0
+    : - 0.8
+      - 0.2
+    ? !!python/tuple
+    - 1
+    : - 0.2
+      - 0.8
+  mode: CPT
+  parents:
+  - x55'
+  values: *id001
+o56:
+  CPT:
+    ? !!python/tuple
+    - 0
+    : - 0.8
+      - 0.2
+    ? !!python/tuple
+    - 1
+    : - 0.2
+      - 0.8
+  mode: CPT
+  parents:
+  - x56'
+  values: *id001
+o57:
+  CPT:
+    ? !!python/tuple
+    - 0
+    : - 0.8
+      - 0.2
+    ? !!python/tuple
+    - 1
+    : - 0.2
+      - 0.8
+  mode: CPT
+  parents:
+  - x57'
+  values: *id001
+o58:
+  CPT:
+    ? !!python/tuple
+    - 0
+    : - 0.8
+      - 0.2
+    ? !!python/tuple
+    - 1
+    : - 0.2
+      - 0.8
+  mode: CPT
+  parents:
+  - x58'
+  values: *id001
+o59:
+  CPT:
+    ? !!python/tuple
+    - 0
+    : - 0.8
+      - 0.2
+    ? !!python/tuple
+    - 1
+    : - 0.2
+      - 0.8
+  mode: CPT
+  parents:
+  - x59'
+  values: *id001
+o6:
+  CPT:
+    ? !!python/tuple
+    - 0
+    : - 0.8
+      - 0.2
+    ? !!python/tuple
+    - 1
+    : - 0.2
+      - 0.8
+  mode: CPT
+  parents:
+  - x6'
+  values: *id001
+o60:
+  CPT:
+    ? !!python/tuple
+    - 0
+    : - 0.8
+      - 0.2
+    ? !!python/tuple
+    - 1
+    : - 0.2
+      - 0.8
+  mode: CPT
+  parents:
+  - x60'
+  values: *id001
+o61:
+  CPT:
+    ? !!python/tuple
+    - 0
+    : - 0.8
+      - 0.2
+    ? !!python/tuple
+    - 1
+    : - 0.2
+      - 0.8
+  mode: CPT
+  parents:
+  - x61'
+  values: *id001
+o62:
+  CPT:
+    ? !!python/tuple
+    - 0
+    : - 0.8
+      - 0.2
+    ? !!python/tuple
+    - 1
+    : - 0.2
+      - 0.8
+  mode: CPT
+  parents:
+  - x62'
+  values: *id001
+o63:
+  CPT:
+    ? !!python/tuple
+    - 0
+    : - 0.8
+      - 0.2
+    ? !!python/tuple
+    - 1
+    : - 0.2
+      - 0.8
+  mode: CPT
+  parents:
+  - x63'
+  values: *id001
+o64:
+  CPT:
+    ? !!python/tuple
+    - 0
+    : - 0.8
+      - 0.2
+    ? !!python/tuple
+    - 1
+    : - 0.2
+      - 0.8
+  mode: CPT
+  parents:
+  - x64'
+  values: *id001
+o65:
+  CPT:
+    ? !!python/tuple
+    - 0
+    : - 0.8
+      - 0.2
+    ? !!python/tuple
+    - 1
+    : - 0.2
+      - 0.8
+  mode: CPT
+  parents:
+  - x65'
+  values: *id001
+o7:
+  CPT:
+    ? !!python/tuple
+    - 0
+    : - 0.8
+      - 0.2
+    ? !!python/tuple
+    - 1
+    : - 0.2
+      - 0.8
+  mode: CPT
+  parents:
+  - x7'
+  values: *id001
+o8:
+  CPT:
+    ? !!python/tuple
+    - 0
+    : - 0.8
+      - 0.2
+    ? !!python/tuple
+    - 1
+    : - 0.2
+      - 0.8
+  mode: CPT
+  parents:
+  - x8'
+  values: *id001
+o9:
+  CPT:
+    ? !!python/tuple
+    - 0
+    : - 0.8
+      - 0.2
+    ? !!python/tuple
+    - 1
+    : - 0.2
+      - 0.8
+  mode: CPT
+  parents:
+  - x9'
+  values: *id001
+r1:
+  CPT:
+    ? !!python/tuple
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    : - 0.0
+      - 1.0
+  mode: CPT
+  parents:
+  - x1'
+  values: *id001
+r10:
+  CPT:
+    ? !!python/tuple
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    : - 0.0
+      - 1.0
+  mode: CPT
+  parents:
+  - x10'
+  values: *id001
+r11:
+  CPT:
+    ? !!python/tuple
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    : - 0.0
+      - 1.0
+  mode: CPT
+  parents:
+  - x11'
+  values: *id001
+r12:
+  CPT:
+    ? !!python/tuple
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    : - 0.0
+      - 1.0
+  mode: CPT
+  parents:
+  - x12'
+  values: *id001
+r13:
+  CPT:
+    ? !!python/tuple
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    : - 0.0
+      - 1.0
+  mode: CPT
+  parents:
+  - x13'
+  values: *id001
+r14:
+  CPT:
+    ? !!python/tuple
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    : - 0.0
+      - 1.0
+  mode: CPT
+  parents:
+  - x14'
+  values: *id001
+r15:
+  CPT:
+    ? !!python/tuple
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    : - 0.0
+      - 1.0
+  mode: CPT
+  parents:
+  - x15'
+  values: *id001
+r16:
+  CPT:
+    ? !!python/tuple
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    : - 0.0
+      - 1.0
+  mode: CPT
+  parents:
+  - x16'
+  values: *id001
+r17:
+  CPT:
+    ? !!python/tuple
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    : - 0.0
+      - 1.0
+  mode: CPT
+  parents:
+  - x17'
+  values: *id001
+r18:
+  CPT:
+    ? !!python/tuple
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    : - 0.0
+      - 1.0
+  mode: CPT
+  parents:
+  - x18'
+  values: *id001
+r19:
+  CPT:
+    ? !!python/tuple
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    : - 0.0
+      - 1.0
+  mode: CPT
+  parents:
+  - x19'
+  values: *id001
+r2:
+  CPT:
+    ? !!python/tuple
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    : - 0.0
+      - 1.0
+  mode: CPT
+  parents:
+  - x2'
+  values: *id001
+r20:
+  CPT:
+    ? !!python/tuple
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    : - 0.0
+      - 1.0
+  mode: CPT
+  parents:
+  - x20'
+  values: *id001
+r21:
+  CPT:
+    ? !!python/tuple
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    : - 0.0
+      - 1.0
+  mode: CPT
+  parents:
+  - x21'
+  values: *id001
+r22:
+  CPT:
+    ? !!python/tuple
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    : - 0.0
+      - 1.0
+  mode: CPT
+  parents:
+  - x22'
+  values: *id001
+r23:
+  CPT:
+    ? !!python/tuple
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    : - 0.0
+      - 1.0
+  mode: CPT
+  parents:
+  - x23'
+  values: *id001
+r24:
+  CPT:
+    ? !!python/tuple
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    : - 0.0
+      - 1.0
+  mode: CPT
+  parents:
+  - x24'
+  values: *id001
+r25:
+  CPT:
+    ? !!python/tuple
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    : - 0.0
+      - 1.0
+  mode: CPT
+  parents:
+  - x25'
+  values: *id001
+r26:
+  CPT:
+    ? !!python/tuple
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    : - 0.0
+      - 1.0
+  mode: CPT
+  parents:
+  - x26'
+  values: *id001
+r27:
+  CPT:
+    ? !!python/tuple
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    : - 0.0
+      - 1.0
+  mode: CPT
+  parents:
+  - x27'
+  values: *id001
+r28:
+  CPT:
+    ? !!python/tuple
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    : - 0.0
+      - 1.0
+  mode: CPT
+  parents:
+  - x28'
+  values: *id001
+r29:
+  CPT:
+    ? !!python/tuple
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    : - 0.0
+      - 1.0
+  mode: CPT
+  parents:
+  - x29'
+  values: *id001
+r3:
+  CPT:
+    ? !!python/tuple
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    : - 0.0
+      - 1.0
+  mode: CPT
+  parents:
+  - x3'
+  values: *id001
+r30:
+  CPT:
+    ? !!python/tuple
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    : - 0.0
+      - 1.0
+  mode: CPT
+  parents:
+  - x30'
+  values: *id001
+r31:
+  CPT:
+    ? !!python/tuple
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    : - 0.0
+      - 1.0
+  mode: CPT
+  parents:
+  - x31'
+  values: *id001
+r32:
+  CPT:
+    ? !!python/tuple
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    : - 0.0
+      - 1.0
+  mode: CPT
+  parents:
+  - x32'
+  values: *id001
+r33:
+  CPT:
+    ? !!python/tuple
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    : - 0.0
+      - 1.0
+  mode: CPT
+  parents:
+  - x33'
+  values: *id001
+r34:
+  CPT:
+    ? !!python/tuple
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    : - 0.0
+      - 1.0
+  mode: CPT
+  parents:
+  - x34'
+  values: *id001
+r35:
+  CPT:
+    ? !!python/tuple
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    : - 0.0
+      - 1.0
+  mode: CPT
+  parents:
+  - x35'
+  values: *id001
+r36:
+  CPT:
+    ? !!python/tuple
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    : - 0.0
+      - 1.0
+  mode: CPT
+  parents:
+  - x36'
+  values: *id001
+r37:
+  CPT:
+    ? !!python/tuple
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    : - 0.0
+      - 1.0
+  mode: CPT
+  parents:
+  - x37'
+  values: *id001
+r38:
+  CPT:
+    ? !!python/tuple
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    : - 0.0
+      - 1.0
+  mode: CPT
+  parents:
+  - x38'
+  values: *id001
+r39:
+  CPT:
+    ? !!python/tuple
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    : - 0.0
+      - 1.0
+  mode: CPT
+  parents:
+  - x39'
+  values: *id001
+r4:
+  CPT:
+    ? !!python/tuple
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    : - 0.0
+      - 1.0
+  mode: CPT
+  parents:
+  - x4'
+  values: *id001
+r40:
+  CPT:
+    ? !!python/tuple
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    : - 0.0
+      - 1.0
+  mode: CPT
+  parents:
+  - x40'
+  values: *id001
+r41:
+  CPT:
+    ? !!python/tuple
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    : - 0.0
+      - 1.0
+  mode: CPT
+  parents:
+  - x41'
+  values: *id001
+r42:
+  CPT:
+    ? !!python/tuple
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    : - 0.0
+      - 1.0
+  mode: CPT
+  parents:
+  - x42'
+  values: *id001
+r43:
+  CPT:
+    ? !!python/tuple
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    : - 0.0
+      - 1.0
+  mode: CPT
+  parents:
+  - x43'
+  values: *id001
+r44:
+  CPT:
+    ? !!python/tuple
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    : - 0.0
+      - 1.0
+  mode: CPT
+  parents:
+  - x44'
+  values: *id001
+r45:
+  CPT:
+    ? !!python/tuple
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    : - 0.0
+      - 1.0
+  mode: CPT
+  parents:
+  - x45'
+  values: *id001
+r46:
+  CPT:
+    ? !!python/tuple
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    : - 0.0
+      - 1.0
+  mode: CPT
+  parents:
+  - x46'
+  values: *id001
+r47:
+  CPT:
+    ? !!python/tuple
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    : - 0.0
+      - 1.0
+  mode: CPT
+  parents:
+  - x47'
+  values: *id001
+r48:
+  CPT:
+    ? !!python/tuple
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    : - 0.0
+      - 1.0
+  mode: CPT
+  parents:
+  - x48'
+  values: *id001
+r49:
+  CPT:
+    ? !!python/tuple
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    : - 0.0
+      - 1.0
+  mode: CPT
+  parents:
+  - x49'
+  values: *id001
+r5:
+  CPT:
+    ? !!python/tuple
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    : - 0.0
+      - 1.0
+  mode: CPT
+  parents:
+  - x5'
+  values: *id001
+r50:
+  CPT:
+    ? !!python/tuple
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    : - 0.0
+      - 1.0
+  mode: CPT
+  parents:
+  - x50'
+  values: *id001
+r51:
+  CPT:
+    ? !!python/tuple
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    : - 0.0
+      - 1.0
+  mode: CPT
+  parents:
+  - x51'
+  values: *id001
+r52:
+  CPT:
+    ? !!python/tuple
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    : - 0.0
+      - 1.0
+  mode: CPT
+  parents:
+  - x52'
+  values: *id001
+r53:
+  CPT:
+    ? !!python/tuple
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    : - 0.0
+      - 1.0
+  mode: CPT
+  parents:
+  - x53'
+  values: *id001
+r54:
+  CPT:
+    ? !!python/tuple
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    : - 0.0
+      - 1.0
+  mode: CPT
+  parents:
+  - x54'
+  values: *id001
+r55:
+  CPT:
+    ? !!python/tuple
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    : - 0.0
+      - 1.0
+  mode: CPT
+  parents:
+  - x55'
+  values: *id001
+r56:
+  CPT:
+    ? !!python/tuple
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    : - 0.0
+      - 1.0
+  mode: CPT
+  parents:
+  - x56'
+  values: *id001
+r57:
+  CPT:
+    ? !!python/tuple
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    : - 0.0
+      - 1.0
+  mode: CPT
+  parents:
+  - x57'
+  values: *id001
+r58:
+  CPT:
+    ? !!python/tuple
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    : - 0.0
+      - 1.0
+  mode: CPT
+  parents:
+  - x58'
+  values: *id001
+r59:
+  CPT:
+    ? !!python/tuple
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    : - 0.0
+      - 1.0
+  mode: CPT
+  parents:
+  - x59'
+  values: *id001
+r6:
+  CPT:
+    ? !!python/tuple
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    : - 0.0
+      - 1.0
+  mode: CPT
+  parents:
+  - x6'
+  values: *id001
+r60:
+  CPT:
+    ? !!python/tuple
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    : - 0.0
+      - 1.0
+  mode: CPT
+  parents:
+  - x60'
+  values: *id001
+r61:
+  CPT:
+    ? !!python/tuple
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    : - 0.0
+      - 1.0
+  mode: CPT
+  parents:
+  - x61'
+  values: *id001
+r62:
+  CPT:
+    ? !!python/tuple
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    : - 0.0
+      - 1.0
+  mode: CPT
+  parents:
+  - x62'
+  values: *id001
+r63:
+  CPT:
+    ? !!python/tuple
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    : - 0.0
+      - 1.0
+  mode: CPT
+  parents:
+  - x63'
+  values: *id001
+r64:
+  CPT:
+    ? !!python/tuple
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    : - 0.0
+      - 1.0
+  mode: CPT
+  parents:
+  - x64'
+  values: *id001
+r65:
+  CPT:
+    ? !!python/tuple
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    : - 0.0
+      - 1.0
+  mode: CPT
+  parents:
+  - x65'
+  values: *id001
+r7:
+  CPT:
+    ? !!python/tuple
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    : - 0.0
+      - 1.0
+  mode: CPT
+  parents:
+  - x7'
+  values: *id001
+r8:
+  CPT:
+    ? !!python/tuple
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    : - 0.0
+      - 1.0
+  mode: CPT
+  parents:
+  - x8'
+  values: *id001
+r9:
+  CPT:
+    ? !!python/tuple
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    : - 0.0
+      - 1.0
+  mode: CPT
+  parents:
+  - x9'
+  values: *id001
+x1:
+  initial_dist:
+  - 0.5
+  - 0.5
+  parents: []
+  values: *id001
+x1':
+  CPT:
+    ? !!python/tuple
+    - 0
+    - 0
+    - 0
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 0
+    - 0
+    - 1
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 0
+    - 1
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 0
+    - 1
+    - 1
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 1
+    - 0
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 0
+    - 1
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 1
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 1
+    - 1
+    : - 0.0
+      - 1.0
+  mode: CPT
+  parents:
+  - a65
+  - a1
+  - a2
+  values: *id001
+x10:
+  initial_dist:
+  - 0.5
+  - 0.5
+  parents: []
+  values: *id001
+x10':
+  CPT:
+    ? !!python/tuple
+    - 0
+    - 0
+    - 0
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 0
+    - 0
+    - 1
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 0
+    - 1
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 0
+    - 1
+    - 1
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 1
+    - 0
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 0
+    - 1
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 1
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 1
+    - 1
+    : - 0.0
+      - 1.0
+  mode: CPT
+  parents:
+  - a9
+  - a10
+  - a11
+  values: *id001
+x11:
+  initial_dist:
+  - 0.5
+  - 0.5
+  parents: []
+  values: *id001
+x11':
+  CPT:
+    ? !!python/tuple
+    - 0
+    - 0
+    - 0
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 0
+    - 0
+    - 1
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 0
+    - 1
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 0
+    - 1
+    - 1
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 1
+    - 0
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 0
+    - 1
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 1
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 1
+    - 1
+    : - 0.0
+      - 1.0
+  mode: CPT
+  parents:
+  - a10
+  - a11
+  - a12
+  values: *id001
+x12:
+  initial_dist:
+  - 0.5
+  - 0.5
+  parents: []
+  values: *id001
+x12':
+  CPT:
+    ? !!python/tuple
+    - 0
+    - 0
+    - 0
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 0
+    - 0
+    - 1
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 0
+    - 1
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 0
+    - 1
+    - 1
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 1
+    - 0
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 0
+    - 1
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 1
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 1
+    - 1
+    : - 0.0
+      - 1.0
+  mode: CPT
+  parents:
+  - a11
+  - a12
+  - a13
+  values: *id001
+x13:
+  initial_dist:
+  - 0.5
+  - 0.5
+  parents: []
+  values: *id001
+x13':
+  CPT:
+    ? !!python/tuple
+    - 0
+    - 0
+    - 0
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 0
+    - 0
+    - 1
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 0
+    - 1
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 0
+    - 1
+    - 1
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 1
+    - 0
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 0
+    - 1
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 1
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 1
+    - 1
+    : - 0.0
+      - 1.0
+  mode: CPT
+  parents:
+  - a12
+  - a13
+  - a14
+  values: *id001
+x14:
+  initial_dist:
+  - 0.5
+  - 0.5
+  parents: []
+  values: *id001
+x14':
+  CPT:
+    ? !!python/tuple
+    - 0
+    - 0
+    - 0
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 0
+    - 0
+    - 1
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 0
+    - 1
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 0
+    - 1
+    - 1
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 1
+    - 0
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 0
+    - 1
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 1
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 1
+    - 1
+    : - 0.0
+      - 1.0
+  mode: CPT
+  parents:
+  - a13
+  - a14
+  - a15
+  values: *id001
+x15:
+  initial_dist:
+  - 0.5
+  - 0.5
+  parents: []
+  values: *id001
+x15':
+  CPT:
+    ? !!python/tuple
+    - 0
+    - 0
+    - 0
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 0
+    - 0
+    - 1
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 0
+    - 1
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 0
+    - 1
+    - 1
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 1
+    - 0
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 0
+    - 1
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 1
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 1
+    - 1
+    : - 0.0
+      - 1.0
+  mode: CPT
+  parents:
+  - a14
+  - a15
+  - a16
+  values: *id001
+x16:
+  initial_dist:
+  - 0.5
+  - 0.5
+  parents: []
+  values: *id001
+x16':
+  CPT:
+    ? !!python/tuple
+    - 0
+    - 0
+    - 0
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 0
+    - 0
+    - 1
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 0
+    - 1
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 0
+    - 1
+    - 1
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 1
+    - 0
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 0
+    - 1
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 1
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 1
+    - 1
+    : - 0.0
+      - 1.0
+  mode: CPT
+  parents:
+  - a15
+  - a16
+  - a17
+  values: *id001
+x17:
+  initial_dist:
+  - 0.5
+  - 0.5
+  parents: []
+  values: *id001
+x17':
+  CPT:
+    ? !!python/tuple
+    - 0
+    - 0
+    - 0
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 0
+    - 0
+    - 1
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 0
+    - 1
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 0
+    - 1
+    - 1
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 1
+    - 0
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 0
+    - 1
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 1
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 1
+    - 1
+    : - 0.0
+      - 1.0
+  mode: CPT
+  parents:
+  - a16
+  - a17
+  - a18
+  values: *id001
+x18:
+  initial_dist:
+  - 0.5
+  - 0.5
+  parents: []
+  values: *id001
+x18':
+  CPT:
+    ? !!python/tuple
+    - 0
+    - 0
+    - 0
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 0
+    - 0
+    - 1
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 0
+    - 1
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 0
+    - 1
+    - 1
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 1
+    - 0
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 0
+    - 1
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 1
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 1
+    - 1
+    : - 0.0
+      - 1.0
+  mode: CPT
+  parents:
+  - a17
+  - a18
+  - a19
+  values: *id001
+x19:
+  initial_dist:
+  - 0.5
+  - 0.5
+  parents: []
+  values: *id001
+x19':
+  CPT:
+    ? !!python/tuple
+    - 0
+    - 0
+    - 0
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 0
+    - 0
+    - 1
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 0
+    - 1
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 0
+    - 1
+    - 1
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 1
+    - 0
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 0
+    - 1
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 1
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 1
+    - 1
+    : - 0.0
+      - 1.0
+  mode: CPT
+  parents:
+  - a18
+  - a19
+  - a20
+  values: *id001
+x2:
+  initial_dist:
+  - 0.5
+  - 0.5
+  parents: []
+  values: *id001
+x2':
+  CPT:
+    ? !!python/tuple
+    - 0
+    - 0
+    - 0
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 0
+    - 0
+    - 1
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 0
+    - 1
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 0
+    - 1
+    - 1
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 1
+    - 0
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 0
+    - 1
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 1
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 1
+    - 1
+    : - 0.0
+      - 1.0
+  mode: CPT
+  parents:
+  - a1
+  - a2
+  - a3
+  values: *id001
+x20:
+  initial_dist:
+  - 0.5
+  - 0.5
+  parents: []
+  values: *id001
+x20':
+  CPT:
+    ? !!python/tuple
+    - 0
+    - 0
+    - 0
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 0
+    - 0
+    - 1
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 0
+    - 1
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 0
+    - 1
+    - 1
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 1
+    - 0
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 0
+    - 1
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 1
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 1
+    - 1
+    : - 0.0
+      - 1.0
+  mode: CPT
+  parents:
+  - a19
+  - a20
+  - a21
+  values: *id001
+x21:
+  initial_dist:
+  - 0.5
+  - 0.5
+  parents: []
+  values: *id001
+x21':
+  CPT:
+    ? !!python/tuple
+    - 0
+    - 0
+    - 0
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 0
+    - 0
+    - 1
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 0
+    - 1
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 0
+    - 1
+    - 1
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 1
+    - 0
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 0
+    - 1
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 1
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 1
+    - 1
+    : - 0.0
+      - 1.0
+  mode: CPT
+  parents:
+  - a20
+  - a21
+  - a22
+  values: *id001
+x22:
+  initial_dist:
+  - 0.5
+  - 0.5
+  parents: []
+  values: *id001
+x22':
+  CPT:
+    ? !!python/tuple
+    - 0
+    - 0
+    - 0
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 0
+    - 0
+    - 1
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 0
+    - 1
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 0
+    - 1
+    - 1
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 1
+    - 0
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 0
+    - 1
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 1
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 1
+    - 1
+    : - 0.0
+      - 1.0
+  mode: CPT
+  parents:
+  - a21
+  - a22
+  - a23
+  values: *id001
+x23:
+  initial_dist:
+  - 0.5
+  - 0.5
+  parents: []
+  values: *id001
+x23':
+  CPT:
+    ? !!python/tuple
+    - 0
+    - 0
+    - 0
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 0
+    - 0
+    - 1
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 0
+    - 1
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 0
+    - 1
+    - 1
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 1
+    - 0
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 0
+    - 1
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 1
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 1
+    - 1
+    : - 0.0
+      - 1.0
+  mode: CPT
+  parents:
+  - a22
+  - a23
+  - a24
+  values: *id001
+x24:
+  initial_dist:
+  - 0.5
+  - 0.5
+  parents: []
+  values: *id001
+x24':
+  CPT:
+    ? !!python/tuple
+    - 0
+    - 0
+    - 0
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 0
+    - 0
+    - 1
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 0
+    - 1
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 0
+    - 1
+    - 1
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 1
+    - 0
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 0
+    - 1
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 1
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 1
+    - 1
+    : - 0.0
+      - 1.0
+  mode: CPT
+  parents:
+  - a23
+  - a24
+  - a25
+  values: *id001
+x25:
+  initial_dist:
+  - 0.5
+  - 0.5
+  parents: []
+  values: *id001
+x25':
+  CPT:
+    ? !!python/tuple
+    - 0
+    - 0
+    - 0
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 0
+    - 0
+    - 1
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 0
+    - 1
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 0
+    - 1
+    - 1
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 1
+    - 0
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 0
+    - 1
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 1
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 1
+    - 1
+    : - 0.0
+      - 1.0
+  mode: CPT
+  parents:
+  - a24
+  - a25
+  - a26
+  values: *id001
+x26:
+  initial_dist:
+  - 0.5
+  - 0.5
+  parents: []
+  values: *id001
+x26':
+  CPT:
+    ? !!python/tuple
+    - 0
+    - 0
+    - 0
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 0
+    - 0
+    - 1
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 0
+    - 1
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 0
+    - 1
+    - 1
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 1
+    - 0
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 0
+    - 1
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 1
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 1
+    - 1
+    : - 0.0
+      - 1.0
+  mode: CPT
+  parents:
+  - a25
+  - a26
+  - a27
+  values: *id001
+x27:
+  initial_dist:
+  - 0.5
+  - 0.5
+  parents: []
+  values: *id001
+x27':
+  CPT:
+    ? !!python/tuple
+    - 0
+    - 0
+    - 0
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 0
+    - 0
+    - 1
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 0
+    - 1
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 0
+    - 1
+    - 1
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 1
+    - 0
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 0
+    - 1
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 1
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 1
+    - 1
+    : - 0.0
+      - 1.0
+  mode: CPT
+  parents:
+  - a26
+  - a27
+  - a28
+  values: *id001
+x28:
+  initial_dist:
+  - 0.5
+  - 0.5
+  parents: []
+  values: *id001
+x28':
+  CPT:
+    ? !!python/tuple
+    - 0
+    - 0
+    - 0
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 0
+    - 0
+    - 1
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 0
+    - 1
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 0
+    - 1
+    - 1
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 1
+    - 0
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 0
+    - 1
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 1
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 1
+    - 1
+    : - 0.0
+      - 1.0
+  mode: CPT
+  parents:
+  - a27
+  - a28
+  - a29
+  values: *id001
+x29:
+  initial_dist:
+  - 0.5
+  - 0.5
+  parents: []
+  values: *id001
+x29':
+  CPT:
+    ? !!python/tuple
+    - 0
+    - 0
+    - 0
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 0
+    - 0
+    - 1
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 0
+    - 1
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 0
+    - 1
+    - 1
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 1
+    - 0
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 0
+    - 1
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 1
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 1
+    - 1
+    : - 0.0
+      - 1.0
+  mode: CPT
+  parents:
+  - a28
+  - a29
+  - a30
+  values: *id001
+x3:
+  initial_dist:
+  - 0.5
+  - 0.5
+  parents: []
+  values: *id001
+x3':
+  CPT:
+    ? !!python/tuple
+    - 0
+    - 0
+    - 0
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 0
+    - 0
+    - 1
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 0
+    - 1
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 0
+    - 1
+    - 1
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 1
+    - 0
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 0
+    - 1
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 1
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 1
+    - 1
+    : - 0.0
+      - 1.0
+  mode: CPT
+  parents:
+  - a2
+  - a3
+  - a4
+  values: *id001
+x30:
+  initial_dist:
+  - 0.5
+  - 0.5
+  parents: []
+  values: *id001
+x30':
+  CPT:
+    ? !!python/tuple
+    - 0
+    - 0
+    - 0
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 0
+    - 0
+    - 1
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 0
+    - 1
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 0
+    - 1
+    - 1
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 1
+    - 0
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 0
+    - 1
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 1
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 1
+    - 1
+    : - 0.0
+      - 1.0
+  mode: CPT
+  parents:
+  - a29
+  - a30
+  - a31
+  values: *id001
+x31:
+  initial_dist:
+  - 0.5
+  - 0.5
+  parents: []
+  values: *id001
+x31':
+  CPT:
+    ? !!python/tuple
+    - 0
+    - 0
+    - 0
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 0
+    - 0
+    - 1
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 0
+    - 1
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 0
+    - 1
+    - 1
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 1
+    - 0
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 0
+    - 1
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 1
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 1
+    - 1
+    : - 0.0
+      - 1.0
+  mode: CPT
+  parents:
+  - a30
+  - a31
+  - a32
+  values: *id001
+x32:
+  initial_dist:
+  - 0.5
+  - 0.5
+  parents: []
+  values: *id001
+x32':
+  CPT:
+    ? !!python/tuple
+    - 0
+    - 0
+    - 0
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 0
+    - 0
+    - 1
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 0
+    - 1
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 0
+    - 1
+    - 1
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 1
+    - 0
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 0
+    - 1
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 1
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 1
+    - 1
+    : - 0.0
+      - 1.0
+  mode: CPT
+  parents:
+  - a31
+  - a32
+  - a33
+  values: *id001
+x33:
+  initial_dist:
+  - 0.5
+  - 0.5
+  parents: []
+  values: *id001
+x33':
+  CPT:
+    ? !!python/tuple
+    - 0
+    - 0
+    - 0
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 0
+    - 0
+    - 1
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 0
+    - 1
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 0
+    - 1
+    - 1
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 1
+    - 0
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 0
+    - 1
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 1
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 1
+    - 1
+    : - 0.0
+      - 1.0
+  mode: CPT
+  parents:
+  - a32
+  - a33
+  - a34
+  values: *id001
+x34:
+  initial_dist:
+  - 0.5
+  - 0.5
+  parents: []
+  values: *id001
+x34':
+  CPT:
+    ? !!python/tuple
+    - 0
+    - 0
+    - 0
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 0
+    - 0
+    - 1
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 0
+    - 1
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 0
+    - 1
+    - 1
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 1
+    - 0
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 0
+    - 1
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 1
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 1
+    - 1
+    : - 0.0
+      - 1.0
+  mode: CPT
+  parents:
+  - a33
+  - a34
+  - a35
+  values: *id001
+x35:
+  initial_dist:
+  - 0.5
+  - 0.5
+  parents: []
+  values: *id001
+x35':
+  CPT:
+    ? !!python/tuple
+    - 0
+    - 0
+    - 0
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 0
+    - 0
+    - 1
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 0
+    - 1
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 0
+    - 1
+    - 1
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 1
+    - 0
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 0
+    - 1
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 1
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 1
+    - 1
+    : - 0.0
+      - 1.0
+  mode: CPT
+  parents:
+  - a34
+  - a35
+  - a36
+  values: *id001
+x36:
+  initial_dist:
+  - 0.5
+  - 0.5
+  parents: []
+  values: *id001
+x36':
+  CPT:
+    ? !!python/tuple
+    - 0
+    - 0
+    - 0
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 0
+    - 0
+    - 1
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 0
+    - 1
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 0
+    - 1
+    - 1
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 1
+    - 0
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 0
+    - 1
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 1
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 1
+    - 1
+    : - 0.0
+      - 1.0
+  mode: CPT
+  parents:
+  - a35
+  - a36
+  - a37
+  values: *id001
+x37:
+  initial_dist:
+  - 0.5
+  - 0.5
+  parents: []
+  values: *id001
+x37':
+  CPT:
+    ? !!python/tuple
+    - 0
+    - 0
+    - 0
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 0
+    - 0
+    - 1
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 0
+    - 1
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 0
+    - 1
+    - 1
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 1
+    - 0
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 0
+    - 1
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 1
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 1
+    - 1
+    : - 0.0
+      - 1.0
+  mode: CPT
+  parents:
+  - a36
+  - a37
+  - a38
+  values: *id001
+x38:
+  initial_dist:
+  - 0.5
+  - 0.5
+  parents: []
+  values: *id001
+x38':
+  CPT:
+    ? !!python/tuple
+    - 0
+    - 0
+    - 0
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 0
+    - 0
+    - 1
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 0
+    - 1
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 0
+    - 1
+    - 1
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 1
+    - 0
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 0
+    - 1
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 1
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 1
+    - 1
+    : - 0.0
+      - 1.0
+  mode: CPT
+  parents:
+  - a37
+  - a38
+  - a39
+  values: *id001
+x39:
+  initial_dist:
+  - 0.5
+  - 0.5
+  parents: []
+  values: *id001
+x39':
+  CPT:
+    ? !!python/tuple
+    - 0
+    - 0
+    - 0
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 0
+    - 0
+    - 1
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 0
+    - 1
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 0
+    - 1
+    - 1
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 1
+    - 0
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 0
+    - 1
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 1
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 1
+    - 1
+    : - 0.0
+      - 1.0
+  mode: CPT
+  parents:
+  - a38
+  - a39
+  - a40
+  values: *id001
+x4:
+  initial_dist:
+  - 0.5
+  - 0.5
+  parents: []
+  values: *id001
+x4':
+  CPT:
+    ? !!python/tuple
+    - 0
+    - 0
+    - 0
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 0
+    - 0
+    - 1
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 0
+    - 1
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 0
+    - 1
+    - 1
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 1
+    - 0
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 0
+    - 1
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 1
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 1
+    - 1
+    : - 0.0
+      - 1.0
+  mode: CPT
+  parents:
+  - a3
+  - a4
+  - a5
+  values: *id001
+x40:
+  initial_dist:
+  - 0.5
+  - 0.5
+  parents: []
+  values: *id001
+x40':
+  CPT:
+    ? !!python/tuple
+    - 0
+    - 0
+    - 0
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 0
+    - 0
+    - 1
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 0
+    - 1
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 0
+    - 1
+    - 1
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 1
+    - 0
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 0
+    - 1
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 1
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 1
+    - 1
+    : - 0.0
+      - 1.0
+  mode: CPT
+  parents:
+  - a39
+  - a40
+  - a41
+  values: *id001
+x41:
+  initial_dist:
+  - 0.5
+  - 0.5
+  parents: []
+  values: *id001
+x41':
+  CPT:
+    ? !!python/tuple
+    - 0
+    - 0
+    - 0
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 0
+    - 0
+    - 1
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 0
+    - 1
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 0
+    - 1
+    - 1
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 1
+    - 0
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 0
+    - 1
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 1
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 1
+    - 1
+    : - 0.0
+      - 1.0
+  mode: CPT
+  parents:
+  - a40
+  - a41
+  - a42
+  values: *id001
+x42:
+  initial_dist:
+  - 0.5
+  - 0.5
+  parents: []
+  values: *id001
+x42':
+  CPT:
+    ? !!python/tuple
+    - 0
+    - 0
+    - 0
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 0
+    - 0
+    - 1
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 0
+    - 1
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 0
+    - 1
+    - 1
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 1
+    - 0
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 0
+    - 1
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 1
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 1
+    - 1
+    : - 0.0
+      - 1.0
+  mode: CPT
+  parents:
+  - a41
+  - a42
+  - a43
+  values: *id001
+x43:
+  initial_dist:
+  - 0.5
+  - 0.5
+  parents: []
+  values: *id001
+x43':
+  CPT:
+    ? !!python/tuple
+    - 0
+    - 0
+    - 0
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 0
+    - 0
+    - 1
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 0
+    - 1
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 0
+    - 1
+    - 1
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 1
+    - 0
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 0
+    - 1
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 1
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 1
+    - 1
+    : - 0.0
+      - 1.0
+  mode: CPT
+  parents:
+  - a42
+  - a43
+  - a44
+  values: *id001
+x44:
+  initial_dist:
+  - 0.5
+  - 0.5
+  parents: []
+  values: *id001
+x44':
+  CPT:
+    ? !!python/tuple
+    - 0
+    - 0
+    - 0
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 0
+    - 0
+    - 1
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 0
+    - 1
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 0
+    - 1
+    - 1
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 1
+    - 0
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 0
+    - 1
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 1
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 1
+    - 1
+    : - 0.0
+      - 1.0
+  mode: CPT
+  parents:
+  - a43
+  - a44
+  - a45
+  values: *id001
+x45:
+  initial_dist:
+  - 0.5
+  - 0.5
+  parents: []
+  values: *id001
+x45':
+  CPT:
+    ? !!python/tuple
+    - 0
+    - 0
+    - 0
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 0
+    - 0
+    - 1
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 0
+    - 1
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 0
+    - 1
+    - 1
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 1
+    - 0
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 0
+    - 1
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 1
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 1
+    - 1
+    : - 0.0
+      - 1.0
+  mode: CPT
+  parents:
+  - a44
+  - a45
+  - a46
+  values: *id001
+x46:
+  initial_dist:
+  - 0.5
+  - 0.5
+  parents: []
+  values: *id001
+x46':
+  CPT:
+    ? !!python/tuple
+    - 0
+    - 0
+    - 0
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 0
+    - 0
+    - 1
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 0
+    - 1
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 0
+    - 1
+    - 1
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 1
+    - 0
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 0
+    - 1
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 1
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 1
+    - 1
+    : - 0.0
+      - 1.0
+  mode: CPT
+  parents:
+  - a45
+  - a46
+  - a47
+  values: *id001
+x47:
+  initial_dist:
+  - 0.5
+  - 0.5
+  parents: []
+  values: *id001
+x47':
+  CPT:
+    ? !!python/tuple
+    - 0
+    - 0
+    - 0
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 0
+    - 0
+    - 1
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 0
+    - 1
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 0
+    - 1
+    - 1
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 1
+    - 0
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 0
+    - 1
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 1
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 1
+    - 1
+    : - 0.0
+      - 1.0
+  mode: CPT
+  parents:
+  - a46
+  - a47
+  - a48
+  values: *id001
+x48:
+  initial_dist:
+  - 0.5
+  - 0.5
+  parents: []
+  values: *id001
+x48':
+  CPT:
+    ? !!python/tuple
+    - 0
+    - 0
+    - 0
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 0
+    - 0
+    - 1
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 0
+    - 1
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 0
+    - 1
+    - 1
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 1
+    - 0
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 0
+    - 1
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 1
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 1
+    - 1
+    : - 0.0
+      - 1.0
+  mode: CPT
+  parents:
+  - a47
+  - a48
+  - a49
+  values: *id001
+x49:
+  initial_dist:
+  - 0.5
+  - 0.5
+  parents: []
+  values: *id001
+x49':
+  CPT:
+    ? !!python/tuple
+    - 0
+    - 0
+    - 0
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 0
+    - 0
+    - 1
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 0
+    - 1
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 0
+    - 1
+    - 1
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 1
+    - 0
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 0
+    - 1
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 1
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 1
+    - 1
+    : - 0.0
+      - 1.0
+  mode: CPT
+  parents:
+  - a48
+  - a49
+  - a50
+  values: *id001
+x5:
+  initial_dist:
+  - 0.5
+  - 0.5
+  parents: []
+  values: *id001
+x5':
+  CPT:
+    ? !!python/tuple
+    - 0
+    - 0
+    - 0
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 0
+    - 0
+    - 1
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 0
+    - 1
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 0
+    - 1
+    - 1
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 1
+    - 0
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 0
+    - 1
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 1
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 1
+    - 1
+    : - 0.0
+      - 1.0
+  mode: CPT
+  parents:
+  - a4
+  - a5
+  - a6
+  values: *id001
+x50:
+  initial_dist:
+  - 0.5
+  - 0.5
+  parents: []
+  values: *id001
+x50':
+  CPT:
+    ? !!python/tuple
+    - 0
+    - 0
+    - 0
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 0
+    - 0
+    - 1
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 0
+    - 1
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 0
+    - 1
+    - 1
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 1
+    - 0
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 0
+    - 1
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 1
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 1
+    - 1
+    : - 0.0
+      - 1.0
+  mode: CPT
+  parents:
+  - a49
+  - a50
+  - a51
+  values: *id001
+x51:
+  initial_dist:
+  - 0.5
+  - 0.5
+  parents: []
+  values: *id001
+x51':
+  CPT:
+    ? !!python/tuple
+    - 0
+    - 0
+    - 0
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 0
+    - 0
+    - 1
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 0
+    - 1
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 0
+    - 1
+    - 1
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 1
+    - 0
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 0
+    - 1
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 1
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 1
+    - 1
+    : - 0.0
+      - 1.0
+  mode: CPT
+  parents:
+  - a50
+  - a51
+  - a52
+  values: *id001
+x52:
+  initial_dist:
+  - 0.5
+  - 0.5
+  parents: []
+  values: *id001
+x52':
+  CPT:
+    ? !!python/tuple
+    - 0
+    - 0
+    - 0
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 0
+    - 0
+    - 1
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 0
+    - 1
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 0
+    - 1
+    - 1
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 1
+    - 0
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 0
+    - 1
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 1
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 1
+    - 1
+    : - 0.0
+      - 1.0
+  mode: CPT
+  parents:
+  - a51
+  - a52
+  - a53
+  values: *id001
+x53:
+  initial_dist:
+  - 0.5
+  - 0.5
+  parents: []
+  values: *id001
+x53':
+  CPT:
+    ? !!python/tuple
+    - 0
+    - 0
+    - 0
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 0
+    - 0
+    - 1
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 0
+    - 1
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 0
+    - 1
+    - 1
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 1
+    - 0
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 0
+    - 1
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 1
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 1
+    - 1
+    : - 0.0
+      - 1.0
+  mode: CPT
+  parents:
+  - a52
+  - a53
+  - a54
+  values: *id001
+x54:
+  initial_dist:
+  - 0.5
+  - 0.5
+  parents: []
+  values: *id001
+x54':
+  CPT:
+    ? !!python/tuple
+    - 0
+    - 0
+    - 0
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 0
+    - 0
+    - 1
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 0
+    - 1
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 0
+    - 1
+    - 1
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 1
+    - 0
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 0
+    - 1
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 1
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 1
+    - 1
+    : - 0.0
+      - 1.0
+  mode: CPT
+  parents:
+  - a53
+  - a54
+  - a55
+  values: *id001
+x55:
+  initial_dist:
+  - 0.5
+  - 0.5
+  parents: []
+  values: *id001
+x55':
+  CPT:
+    ? !!python/tuple
+    - 0
+    - 0
+    - 0
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 0
+    - 0
+    - 1
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 0
+    - 1
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 0
+    - 1
+    - 1
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 1
+    - 0
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 0
+    - 1
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 1
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 1
+    - 1
+    : - 0.0
+      - 1.0
+  mode: CPT
+  parents:
+  - a54
+  - a55
+  - a56
+  values: *id001
+x56:
+  initial_dist:
+  - 0.5
+  - 0.5
+  parents: []
+  values: *id001
+x56':
+  CPT:
+    ? !!python/tuple
+    - 0
+    - 0
+    - 0
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 0
+    - 0
+    - 1
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 0
+    - 1
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 0
+    - 1
+    - 1
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 1
+    - 0
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 0
+    - 1
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 1
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 1
+    - 1
+    : - 0.0
+      - 1.0
+  mode: CPT
+  parents:
+  - a55
+  - a56
+  - a57
+  values: *id001
+x57:
+  initial_dist:
+  - 0.5
+  - 0.5
+  parents: []
+  values: *id001
+x57':
+  CPT:
+    ? !!python/tuple
+    - 0
+    - 0
+    - 0
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 0
+    - 0
+    - 1
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 0
+    - 1
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 0
+    - 1
+    - 1
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 1
+    - 0
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 0
+    - 1
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 1
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 1
+    - 1
+    : - 0.0
+      - 1.0
+  mode: CPT
+  parents:
+  - a56
+  - a57
+  - a58
+  values: *id001
+x58:
+  initial_dist:
+  - 0.5
+  - 0.5
+  parents: []
+  values: *id001
+x58':
+  CPT:
+    ? !!python/tuple
+    - 0
+    - 0
+    - 0
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 0
+    - 0
+    - 1
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 0
+    - 1
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 0
+    - 1
+    - 1
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 1
+    - 0
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 0
+    - 1
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 1
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 1
+    - 1
+    : - 0.0
+      - 1.0
+  mode: CPT
+  parents:
+  - a57
+  - a58
+  - a59
+  values: *id001
+x59:
+  initial_dist:
+  - 0.5
+  - 0.5
+  parents: []
+  values: *id001
+x59':
+  CPT:
+    ? !!python/tuple
+    - 0
+    - 0
+    - 0
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 0
+    - 0
+    - 1
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 0
+    - 1
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 0
+    - 1
+    - 1
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 1
+    - 0
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 0
+    - 1
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 1
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 1
+    - 1
+    : - 0.0
+      - 1.0
+  mode: CPT
+  parents:
+  - a58
+  - a59
+  - a60
+  values: *id001
+x6:
+  initial_dist:
+  - 0.5
+  - 0.5
+  parents: []
+  values: *id001
+x6':
+  CPT:
+    ? !!python/tuple
+    - 0
+    - 0
+    - 0
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 0
+    - 0
+    - 1
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 0
+    - 1
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 0
+    - 1
+    - 1
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 1
+    - 0
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 0
+    - 1
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 1
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 1
+    - 1
+    : - 0.0
+      - 1.0
+  mode: CPT
+  parents:
+  - a5
+  - a6
+  - a7
+  values: *id001
+x60:
+  initial_dist:
+  - 0.5
+  - 0.5
+  parents: []
+  values: *id001
+x60':
+  CPT:
+    ? !!python/tuple
+    - 0
+    - 0
+    - 0
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 0
+    - 0
+    - 1
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 0
+    - 1
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 0
+    - 1
+    - 1
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 1
+    - 0
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 0
+    - 1
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 1
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 1
+    - 1
+    : - 0.0
+      - 1.0
+  mode: CPT
+  parents:
+  - a59
+  - a60
+  - a61
+  values: *id001
+x61:
+  initial_dist:
+  - 0.5
+  - 0.5
+  parents: []
+  values: *id001
+x61':
+  CPT:
+    ? !!python/tuple
+    - 0
+    - 0
+    - 0
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 0
+    - 0
+    - 1
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 0
+    - 1
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 0
+    - 1
+    - 1
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 1
+    - 0
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 0
+    - 1
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 1
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 1
+    - 1
+    : - 0.0
+      - 1.0
+  mode: CPT
+  parents:
+  - a60
+  - a61
+  - a62
+  values: *id001
+x62:
+  initial_dist:
+  - 0.5
+  - 0.5
+  parents: []
+  values: *id001
+x62':
+  CPT:
+    ? !!python/tuple
+    - 0
+    - 0
+    - 0
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 0
+    - 0
+    - 1
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 0
+    - 1
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 0
+    - 1
+    - 1
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 1
+    - 0
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 0
+    - 1
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 1
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 1
+    - 1
+    : - 0.0
+      - 1.0
+  mode: CPT
+  parents:
+  - a61
+  - a62
+  - a63
+  values: *id001
+x63:
+  initial_dist:
+  - 0.5
+  - 0.5
+  parents: []
+  values: *id001
+x63':
+  CPT:
+    ? !!python/tuple
+    - 0
+    - 0
+    - 0
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 0
+    - 0
+    - 1
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 0
+    - 1
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 0
+    - 1
+    - 1
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 1
+    - 0
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 0
+    - 1
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 1
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 1
+    - 1
+    : - 0.0
+      - 1.0
+  mode: CPT
+  parents:
+  - a62
+  - a63
+  - a64
+  values: *id001
+x64:
+  initial_dist:
+  - 0.5
+  - 0.5
+  parents: []
+  values: *id001
+x64':
+  CPT:
+    ? !!python/tuple
+    - 0
+    - 0
+    - 0
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 0
+    - 0
+    - 1
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 0
+    - 1
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 0
+    - 1
+    - 1
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 1
+    - 0
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 0
+    - 1
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 1
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 1
+    - 1
+    : - 0.0
+      - 1.0
+  mode: CPT
+  parents:
+  - a63
+  - a64
+  - a65
+  values: *id001
+x65:
+  initial_dist:
+  - 0.5
+  - 0.5
+  parents: []
+  values: *id001
+x65':
+  CPT:
+    ? !!python/tuple
+    - 0
+    - 0
+    - 0
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 0
+    - 0
+    - 1
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 0
+    - 1
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 0
+    - 1
+    - 1
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 1
+    - 0
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 0
+    - 1
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 1
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 1
+    - 1
+    : - 0.0
+      - 1.0
+  mode: CPT
+  parents:
+  - a64
+  - a65
+  - a1
+  values: *id001
+x7:
+  initial_dist:
+  - 0.5
+  - 0.5
+  parents: []
+  values: *id001
+x7':
+  CPT:
+    ? !!python/tuple
+    - 0
+    - 0
+    - 0
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 0
+    - 0
+    - 1
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 0
+    - 1
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 0
+    - 1
+    - 1
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 1
+    - 0
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 0
+    - 1
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 1
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 1
+    - 1
+    : - 0.0
+      - 1.0
+  mode: CPT
+  parents:
+  - a6
+  - a7
+  - a8
+  values: *id001
+x8:
+  initial_dist:
+  - 0.5
+  - 0.5
+  parents: []
+  values: *id001
+x8':
+  CPT:
+    ? !!python/tuple
+    - 0
+    - 0
+    - 0
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 0
+    - 0
+    - 1
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 0
+    - 1
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 0
+    - 1
+    - 1
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 1
+    - 0
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 0
+    - 1
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 1
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 1
+    - 1
+    : - 0.0
+      - 1.0
+  mode: CPT
+  parents:
+  - a7
+  - a8
+  - a9
+  values: *id001
+x9:
+  initial_dist:
+  - 0.5
+  - 0.5
+  parents: []
+  values: *id001
+x9':
+  CPT:
+    ? !!python/tuple
+    - 0
+    - 0
+    - 0
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 0
+    - 0
+    - 1
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 0
+    - 1
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 0
+    - 1
+    - 1
+    : - 0.0
+      - 1.0
+    ? !!python/tuple
+    - 1
+    - 0
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 0
+    - 1
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 1
+    - 0
+    : - 1.0
+      - 0.0
+    ? !!python/tuple
+    - 1
+    - 1
+    - 1
+    : - 0.0
+      - 1.0
+  mode: CPT
+  parents:
+  - a8
+  - a9
+  - a10
+  values: *id001

@@ -1,0 +1,410 @@
+AgentComponent:
+  '1':
+    Rollout:
+      discountHorizon: 0.0
+      explorationConstant: 100.0
+      numberOfParticles: 1000
+      numberOfSimulationsPerStep: 1000
+      particleReinvigoration: false
+      particleReinvigorationRate: 0.0
+    Simulator:
+      InfluencePredictor:
+        Type: Random
+        recurrent: true
+      Type: Local
+    Type: POMCP
+  '10':
+    Type: Count
+    memorySize: -1
+  '100':
+    Type: Count
+    memorySize: -1
+  '101':
+    Type: Count
+    memorySize: -1
+  '102':
+    Type: Count
+    memorySize: -1
+  '103':
+    Type: Count
+    memorySize: -1
+  '104':
+    Type: Count
+    memorySize: -1
+  '105':
+    Type: Count
+    memorySize: -1
+  '106':
+    Type: Count
+    memorySize: -1
+  '107':
+    Type: Count
+    memorySize: -1
+  '108':
+    Type: Count
+    memorySize: -1
+  '109':
+    Type: Count
+    memorySize: -1
+  '11':
+    Type: Count
+    memorySize: -1
+  '110':
+    Type: Count
+    memorySize: -1
+  '111':
+    Type: Count
+    memorySize: -1
+  '112':
+    Type: Count
+    memorySize: -1
+  '113':
+    Type: Count
+    memorySize: -1
+  '114':
+    Type: Count
+    memorySize: -1
+  '115':
+    Type: Count
+    memorySize: -1
+  '116':
+    Type: Count
+    memorySize: -1
+  '117':
+    Type: Count
+    memorySize: -1
+  '118':
+    Type: Count
+    memorySize: -1
+  '119':
+    Type: Count
+    memorySize: -1
+  '12':
+    Type: Count
+    memorySize: -1
+  '120':
+    Type: Count
+    memorySize: -1
+  '121':
+    Type: Count
+    memorySize: -1
+  '122':
+    Type: Count
+    memorySize: -1
+  '123':
+    Type: Count
+    memorySize: -1
+  '124':
+    Type: Count
+    memorySize: -1
+  '125':
+    Type: Count
+    memorySize: -1
+  '126':
+    Type: Count
+    memorySize: -1
+  '127':
+    Type: Count
+    memorySize: -1
+  '128':
+    Type: Count
+    memorySize: -1
+  '129':
+    Type: Count
+    memorySize: -1
+  '13':
+    Type: Count
+    memorySize: -1
+  '14':
+    Type: Count
+    memorySize: -1
+  '15':
+    Type: Count
+    memorySize: -1
+  '16':
+    Type: Count
+    memorySize: -1
+  '17':
+    Type: Count
+    memorySize: -1
+  '18':
+    Type: Count
+    memorySize: -1
+  '19':
+    Type: Count
+    memorySize: -1
+  '2':
+    Type: Count
+    memorySize: -1
+  '20':
+    Type: Count
+    memorySize: -1
+  '21':
+    Type: Count
+    memorySize: -1
+  '22':
+    Type: Count
+    memorySize: -1
+  '23':
+    Type: Count
+    memorySize: -1
+  '24':
+    Type: Count
+    memorySize: -1
+  '25':
+    Type: Count
+    memorySize: -1
+  '26':
+    Type: Count
+    memorySize: -1
+  '27':
+    Type: Count
+    memorySize: -1
+  '28':
+    Type: Count
+    memorySize: -1
+  '29':
+    Type: Count
+    memorySize: -1
+  '3':
+    Type: Count
+    memorySize: -1
+  '30':
+    Type: Count
+    memorySize: -1
+  '31':
+    Type: Count
+    memorySize: -1
+  '32':
+    Type: Count
+    memorySize: -1
+  '33':
+    Type: Count
+    memorySize: -1
+  '34':
+    Type: Count
+    memorySize: -1
+  '35':
+    Type: Count
+    memorySize: -1
+  '36':
+    Type: Count
+    memorySize: -1
+  '37':
+    Type: Count
+    memorySize: -1
+  '38':
+    Type: Count
+    memorySize: -1
+  '39':
+    Type: Count
+    memorySize: -1
+  '4':
+    Type: Count
+    memorySize: -1
+  '40':
+    Type: Count
+    memorySize: -1
+  '41':
+    Type: Count
+    memorySize: -1
+  '42':
+    Type: Count
+    memorySize: -1
+  '43':
+    Type: Count
+    memorySize: -1
+  '44':
+    Type: Count
+    memorySize: -1
+  '45':
+    Type: Count
+    memorySize: -1
+  '46':
+    Type: Count
+    memorySize: -1
+  '47':
+    Type: Count
+    memorySize: -1
+  '48':
+    Type: Count
+    memorySize: -1
+  '49':
+    Type: Count
+    memorySize: -1
+  '5':
+    Type: Count
+    memorySize: -1
+  '50':
+    Type: Count
+    memorySize: -1
+  '51':
+    Type: Count
+    memorySize: -1
+  '52':
+    Type: Count
+    memorySize: -1
+  '53':
+    Type: Count
+    memorySize: -1
+  '54':
+    Type: Count
+    memorySize: -1
+  '55':
+    Type: Count
+    memorySize: -1
+  '56':
+    Type: Count
+    memorySize: -1
+  '57':
+    Type: Count
+    memorySize: -1
+  '58':
+    Type: Count
+    memorySize: -1
+  '59':
+    Type: Count
+    memorySize: -1
+  '6':
+    Type: Count
+    memorySize: -1
+  '60':
+    Type: Count
+    memorySize: -1
+  '61':
+    Type: Count
+    memorySize: -1
+  '62':
+    Type: Count
+    memorySize: -1
+  '63':
+    Type: Count
+    memorySize: -1
+  '64':
+    Type: Count
+    memorySize: -1
+  '65':
+    Type: Count
+    memorySize: -1
+  '66':
+    Type: Count
+    memorySize: -1
+  '67':
+    Type: Count
+    memorySize: -1
+  '68':
+    Type: Count
+    memorySize: -1
+  '69':
+    Type: Count
+    memorySize: -1
+  '7':
+    Type: Count
+    memorySize: -1
+  '70':
+    Type: Count
+    memorySize: -1
+  '71':
+    Type: Count
+    memorySize: -1
+  '72':
+    Type: Count
+    memorySize: -1
+  '73':
+    Type: Count
+    memorySize: -1
+  '74':
+    Type: Count
+    memorySize: -1
+  '75':
+    Type: Count
+    memorySize: -1
+  '76':
+    Type: Count
+    memorySize: -1
+  '77':
+    Type: Count
+    memorySize: -1
+  '78':
+    Type: Count
+    memorySize: -1
+  '79':
+    Type: Count
+    memorySize: -1
+  '8':
+    Type: Count
+    memorySize: -1
+  '80':
+    Type: Count
+    memorySize: -1
+  '81':
+    Type: Count
+    memorySize: -1
+  '82':
+    Type: Count
+    memorySize: -1
+  '83':
+    Type: Count
+    memorySize: -1
+  '84':
+    Type: Count
+    memorySize: -1
+  '85':
+    Type: Count
+    memorySize: -1
+  '86':
+    Type: Count
+    memorySize: -1
+  '87':
+    Type: Count
+    memorySize: -1
+  '88':
+    Type: Count
+    memorySize: -1
+  '89':
+    Type: Count
+    memorySize: -1
+  '9':
+    Type: Count
+    memorySize: -1
+  '90':
+    Type: Count
+    memorySize: -1
+  '91':
+    Type: Count
+    memorySize: -1
+  '92':
+    Type: Count
+    memorySize: -1
+  '93':
+    Type: Count
+    memorySize: -1
+  '94':
+    Type: Count
+    memorySize: -1
+  '95':
+    Type: Count
+    memorySize: -1
+  '96':
+    Type: Count
+    memorySize: -1
+  '97':
+    Type: Count
+    memorySize: -1
+  '98':
+    Type: Count
+    memorySize: -1
+  '99':
+    Type: Count
+    memorySize: -1
+Experiment:
+  fullLogging: false
+  repeat: 1000
+  saveReplay: false
+General:
+  IDOfAgentToControl: '1'
+  discountFactor: 1.0
+  domain: GrabAChair
+  horizon: 10
+GrabAChair:
+  2SDBNYamlFilePath: configs/2SDBNYamlFiles/GAC/129AgentsGrabAChairP00.yaml

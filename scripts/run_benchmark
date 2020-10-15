@@ -1,0 +1,12 @@
+#!/usr/bin/bash
+
+export FADMEN_HOME=$PWD
+
+CONFIG=$1
+NAMEE=${CONFIG%%.*}
+NAME=${NAMEE:8}
+
+cd build/ &&
+make CDBG=-w &&
+cd .. &&
+./build/bin/main Planning $FADMEN_HOME/$CONFIG $FADMEN_HOME/results/$NAME

@@ -1,0 +1,4 @@
+third-party/yaml-cpp/
+third-party/libtorch/
+build/*
+singularity/FADMEN.sif

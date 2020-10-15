@@ -1,0 +1,119 @@
+AgentComponent:
+  '1':
+    Rollout:
+      discountHorizon: 0.0
+      explorationConstant: 100.0
+      numberOfParticles: 1000
+      numberOfSimulationsPerStep: 1000
+      particleReinvigoration: false
+      particleReinvigorationRate: 0.0
+    Simulator:
+      Type: Global
+    Type: POMCP
+  '10':
+    Type: Count
+    memorySize: -1
+  '11':
+    Type: Count
+    memorySize: -1
+  '12':
+    Type: Count
+    memorySize: -1
+  '13':
+    Type: Count
+    memorySize: -1
+  '14':
+    Type: Count
+    memorySize: -1
+  '15':
+    Type: Count
+    memorySize: -1
+  '16':
+    Type: Count
+    memorySize: -1
+  '17':
+    Type: Count
+    memorySize: -1
+  '18':
+    Type: Count
+    memorySize: -1
+  '19':
+    Type: Count
+    memorySize: -1
+  '2':
+    Type: Count
+    memorySize: -1
+  '20':
+    Type: Count
+    memorySize: -1
+  '21':
+    Type: Count
+    memorySize: -1
+  '22':
+    Type: Count
+    memorySize: -1
+  '23':
+    Type: Count
+    memorySize: -1
+  '24':
+    Type: Count
+    memorySize: -1
+  '25':
+    Type: Count
+    memorySize: -1
+  '26':
+    Type: Count
+    memorySize: -1
+  '27':
+    Type: Count
+    memorySize: -1
+  '28':
+    Type: Count
+    memorySize: -1
+  '29':
+    Type: Count
+    memorySize: -1
+  '3':
+    Type: Count
+    memorySize: -1
+  '30':
+    Type: Count
+    memorySize: -1
+  '31':
+    Type: Count
+    memorySize: -1
+  '32':
+    Type: Count
+    memorySize: -1
+  '33':
+    Type: Count
+    memorySize: -1
+  '4':
+    Type: Count
+    memorySize: -1
+  '5':
+    Type: Count
+    memorySize: -1
+  '6':
+    Type: Count
+    memorySize: -1
+  '7':
+    Type: Count
+    memorySize: -1
+  '8':
+    Type: Count
+    memorySize: -1
+  '9':
+    Type: Count
+    memorySize: -1
+Experiment:
+  fullLogging: false
+  repeat: 1000
+  saveReplay: false
+General:
+  IDOfAgentToControl: '1'
+  discountFactor: 1.0
+  domain: GrabAChair
+  horizon: 10
+GrabAChair:
+  2SDBNYamlFilePath: configs/2SDBNYamlFiles/GAC/33AgentsGrabAChairP00.yaml

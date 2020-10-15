@@ -1,0 +1,42 @@
+AgentComponent:
+  '1':
+    Rollout:
+      discountHorizon: 0.0
+      explorationConstant: 100.0
+      numberOfParticles: 1000
+      numberOfSimulationsPerStep: 1000
+      particleReinvigoration: false
+      particleReinvigorationRate: 0.0
+    Simulator:
+      InfluencePredictor:
+        Type: GRU
+        fast: true
+        modelPath: models/GAC/5agent/inf_gru_H8_D1000/model.pt
+        numberOfHiddenStates: 8
+        numberOfSampledEpisodesForTraining: 1000
+        recurrent: true
+      Type: Local
+    Type: POMCP
+  '2':
+    Type: Count
+    memorySize: -1
+  '3':
+    Type: Count
+    memorySize: -1
+  '4':
+    Type: Count
+    memorySize: -1
+  '5':
+    Type: Count
+    memorySize: -1
+Experiment:
+  fullLogging: false
+  repeat: 1000
+  saveReplay: false
+General:
+  IDOfAgentToControl: '1'
+  discountFactor: 1.0
+  domain: GrabAChair
+  horizon: 10
+GrabAChair:
+  2SDBNYamlFilePath: configs/2SDBNYamlFiles/GAC/5AgentsGrabAChairP00.yaml

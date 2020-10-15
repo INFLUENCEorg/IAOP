@@ -1,0 +1,49 @@
+General:
+  domain: "GridTraffic"
+  horizon: 30 
+  discountFactor: 0.95
+  IDOfAgentToControl: "5"
+
+Experiment:
+  repeat: 50
+  saveReplay: False
+  fullLogging: False
+
+AgentComponent: # the agent that we can control
+  "1":
+    Type: Simple2
+  "2":
+    Type: Simple2
+  "3":
+    Type: Simple2
+  "4":
+    Type: Simple2
+  "5":
+    Type: POMCP
+    Rollout:
+      explorationConstant: 10.0
+      numberOfParticles: 1000
+      numberOfSecondsPerStep: 16
+      discountHorizon: 0.4
+      particleReinvigoration: True
+      particleReinvigorationRate: 0.1666
+    Simulator:
+      Type: "Local"
+      InfluencePredictor:
+        Type: "RNN"
+        modelPath: models/GTC/inf_rnn_H2_D1000/model.pt
+        numberOfHiddenStates: 2
+        recurrent: True
+        numberOfSampledEpisodesForTraining: 1000
+  "6":
+    Type: Simple2
+  "7":
+    Type: Simple2
+  "8":
+    Type: Simple2
+  "9":
+    Type: Simple2
+
+GridTraffic:
+  obsLength: 1
+  2SDBNYamlFilePath: "configs/2SDBNYamlFiles/GTC/3X3L6obsL1in_prob1.0out_prob0.3obs_noise0.0init_prob0.7.yaml"

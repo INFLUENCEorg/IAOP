@@ -1,0 +1,28 @@
+Bootstrap: docker
+From: ubuntu:19.10
+
+%post
+    apt-get -yq update
+    apt-get -yq --no-install-recommends install \
+        software-properties-common \
+        apt-transport-https \
+        ca-certificates \
+        aptitude \
+        wget \
+        vim \
+        rsync \
+        python3-pip \
+        python3-dev \
+        python3-setuptools \
+        unzip && \
+    add-apt-repository ppa:ubuntu-toolchain-r/test
+    apt-get -yq install gcc-9 g++-9
+    apt-get -yq install libgoogle-glog-dev
+    apt-get -yq install cmake
+    apt-get -yq install libeigen3-dev
+    ln -s -f /usr/bin/gcc-9 /usr/bin/gcc
+    ln -s -f /usr/bin/g++-9 /usr/bin/g++
+    pip3 install --no-cache-dir --upgrade pip
+    pip3 install --no-cache-dir --upgrade matplotlib numpy
+%environment
+    export LC_ALL=C

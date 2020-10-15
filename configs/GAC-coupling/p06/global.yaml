@@ -1,0 +1,38 @@
+General:
+  domain: "GrabAChair"
+  horizon: 10
+  IDOfAgentToControl: "1"
+  discountFactor: 1.0
+
+Experiment:
+  repeat: 1000
+  saveReplay: False
+  fullLogging: False
+
+AgentComponent: # the agent that we can control
+  "1":
+    Type: POMCP
+    Rollout:
+      explorationConstant: 100.0
+      numberOfParticles: 1000
+      numberOfSimulationsPerStep: 1000
+      particleReinvigoration: False
+      discountHorizon: 0.0
+      particleReinvigorationRate: 0.0
+    Simulator:
+      Type: "Global"
+  "2":
+    Type: "Count"
+    memorySize: -1
+  "3":
+    Type: "Count"
+    memorySize: -1
+  "4":
+    Type: "Count"
+    memorySize: -1
+  "5":
+    Type: "Count"
+    memorySize: -1
+
+GrabAChair:
+  2SDBNYamlFilePath: "configs/2SDBNYamlFiles/GAC/5AgentsGrabAChairP06.yaml"
