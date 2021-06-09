@@ -1,14 +1,16 @@
 # Influence-Augmented Online Planning for Complex Environments
 
-This is the codebase accompanying the NeurIPS2020 paper "Influence-Augmented Online Planning for Complex Environments" by Jinke He, Miguel Suau and Frans A. Oliehoek.
+This is the codebase accompanying the NeurIPS2020 paper "[Influence-Augmented Online Planning for Complex Environments](https://proceedings.neurips.cc//paper/2020/hash/2e6d9c6052e99fcdfa61d9b9da273ca2-Abstract.html)" by Jinke He, Miguel Suau and Frans A. Oliehoek.
 
 Disclaimer: the codebase has only been tested on Ubuntu and Arch Linux. 
+
+**Update**: We fixed a few minor bugs found in the codebase and updated part of the results in the [arxiv paper](https://arxiv.org/abs/2010.11038).
 
 ## Dependencies
 
 ### For online planning experiments:
 * [Singularity](https://sylabs.io/docs/)
-* [libtorch](https://download.pytorch.org/libtorch/cpu/libtorch-cxx11-abi-shared-with-deps-1.5.0%2Bcpu.zip) (C++ version of PyTorch): `download and unzip libtorch into third-party/libtorch`
+* [libtorch](https://download.pytorch.org/libtorch/cpu/libtorch-cxx11-abi-shared-with-deps-1.8.1%2Bcpu.zip) (C++ version of PyTorch): `download and unzip libtorch into third-party/libtorch`
 * [yaml-cpp](https://github.com/jbeder/yaml-cpp): `git clone https://github.com/jbeder/yaml-cpp third-party/yaml-cpp`
 
 ### For training the influence predictors and plotting the results:
