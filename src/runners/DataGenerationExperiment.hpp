@@ -16,6 +16,15 @@ class DataGenerationExperiment: public Experiment {
 
     bool run(){
       
+      // create two tensors, one for inputs and one for outputs
+      // you can compute the sizes of these two tensors
+
+      // run simulations in the global simulator - get trajectories - put data into the two tensors
+
+      // save the two tensors to local disks
+
+      // create the file for results, maybe a matrix or a json file or a yaml file?
+      
       // read configurations
       std::string domainName = parameters["General"]["domain"].as<std::string>();
       int horizon = parameters["General"]["horizon"].as<int>();
@@ -59,17 +68,32 @@ class DataGenerationExperiment: public Experiment {
         // sample one state
         auto state = globalSimulatorPtr->sampleInitialState();
         // do the trajectory simulation
-        for (int step=0; step<=horizon-2; step++) {
+        for (int step=0; step<=horizon-1; step++) {
           int action = std::experimental::randint(0, numberOfActions-1);
           globalSimulatorPtr->step(state, action, observation, reward, done);
-          // extract local states and actions and influence sources
-          for (int j=0; j<=localStates.size()-1; j++){
-            inputs[i][step][j] = state.environmentState[localStates[j]];
-          }
-          inputs[i][step][localStates.size()] = action;
-          // outputs
-          for (int j=0; j<=influenceSourceStates.size()-1; j++) {
-            outputs[i][step][j] = state.environmentState[influenceSourceStates[j]];
+
+          if (step <= horizon-2) {
+            // extract local states and actions and influence sources
+            for (int j=0; j<=localStates.size()-1; j++){
+              inputs[i][step][j] = state.environmentState[localStates[j]];
+            }
+            inputs[i][step][localStates.size()] = action;
+            // outputs
+            for (int j=0; j<=influenceSourceStates.size()-1; j++) {
+              if (influenceSourceStates.at(j)[0] != 'a') {
+                outputs[i][step][j] = state.environmentState[influenceSourceStates[j]];
+              } else {
+                if (step != 0) {
+                  outputs[i][step-1][j] = state.environmentState[influenceSourceStates[j]];
+                }
+              }
+            }
+          } else {
+            for (int j=0; j<=influenceSourceStates.size()-1; j++) {
+              if (influenceSourceStates.at(j)[0] == 'a') {
+                outputs[i][step-1][j] = state.environmentState[influenceSourceStates[j]];
+              }
+            }
           }
         }
       }

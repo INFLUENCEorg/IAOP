@@ -5,7 +5,7 @@ General:
   IDOfAgentToControl: "5"
 
 Experiment:
-  repeat: 50
+  repeat: 250
   saveReplay: False
   fullLogging: False
 

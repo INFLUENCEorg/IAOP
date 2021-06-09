@@ -51,6 +51,18 @@ class RNNPredictor(nn.Module):
         count += num_of_outputs
     return probs
 
+  def forwardLogits(self, inputs):
+    # no softmax here
+    hidden_state = torch.zeros(1, inputs.shape[0], self.hidden_state_size)
+    gru_outputs, _ = self.gru(inputs, hidden_state)
+    logits = self.linear_layer(gru_outputs)
+    the_logits = []
+    count = 0
+    for i, num_of_outputs in enumerate(self.output_classes):
+        the_logits.append(logits[:,:,count:count+num_of_outputs])
+        count += num_of_outputs
+    return the_logits
+
   @torch.jit.export
   def recurrentForward(self, hidden_state, inputs):
     gru_outputs, hidden_state = self.gru(inputs, hidden_state)
@@ -138,8 +150,10 @@ def train_influence_predictor(
     print("influence predictor initialized.")
 
     loss_function = torch.nn.CrossEntropyLoss()
+    eval_loss_function = torch.nn.NLLLoss()
     optimizer = optim.Adam(predictor.parameters(), lr=lr, weight_decay=weight_decay)
     def evaluate(the_predictor, dataloader):
+        the_predictor.eval()
         with torch.no_grad():
             loss = 0
             for batch_inputs, batch_targets in testing_dataloader:
@@ -147,22 +161,23 @@ def train_influence_predictor(
                 for i, num_classes in enumerate(output_classes):
                     the_predictions = predictions[i].view(-1, num_classes)
                     the_targets = batch_targets[:,:,i].view(-1)
-                    loss += loss_function(the_predictions, the_targets).item()
+                    loss += eval_loss_function(torch.log(the_predictions), the_targets).item()
             return loss
 
     epoch_losses = []
     test_losses = []
     for epoch in range(num_epochs):
+        predictor.train()
         epoch_loss = 0
         gradient_step = 0
         for batch_inputs, batch_targets in training_dataloader:
             predictor.zero_grad()
-            predictions = predictor(batch_inputs)
+            logits = predictor.forwardLogits(batch_inputs)
             loss = 0
             for i, num_classes in enumerate(output_classes):
-                the_predictions = predictions[i].view(-1, num_classes)
+                the_logits = logits[i].view(-1, num_classes)
                 the_targets = batch_targets[:,:,i].view(-1)
-                loss += loss_function(the_predictions, the_targets)
+                loss += loss_function(the_logits, the_targets)
             loss.backward()     
             optimizer.step()
             with torch.no_grad():

@@ -151,7 +151,8 @@ class GRUInfluencePredictor: public RecurrentInfluencePredictor {
           auto y = (torch::matmul(newHiddenState, why) + by).view(-1);
           auto expy = torch::exp(y);
           int count = 0;
-          for (auto &[key, val]: _map) {
+          for (const std::string &key: _influenceSourceVariables) {
+            auto& val = _map.at(key);
             auto probs = torch::div(expy.index({torch::indexing::Slice(count, count+val)}),torch::sum(expy.index({torch::indexing::Slice(count, count+val)}))).view(-1);
             std::discrete_distribution<int> dist (probs.data<float>(), probs.data<float>()+probs.numel());
             dict[key] = dist(_netPtr->getRandomNumberGenerator());
@@ -239,7 +240,8 @@ class RNNInfluencePredictor: public RecurrentInfluencePredictor {
         auto y = (torch::matmul(newHiddenState, why) + by).view(-1);
         auto expy = torch::exp(y);
         int count = 0;
-        for (auto &[key, val]: _map) {
+        for (const std::string &key: _influenceSourceVariables) {
+          auto& val = _map.at(key);
           auto probs = torch::div(expy.index({torch::indexing::Slice(count, count+val)}),torch::sum(expy.index({torch::indexing::Slice(count, count+val)}))).view(-1);
           std::discrete_distribution<int> dist (probs.data<float>(), probs.data<float>()+probs.numel());
           dict[key] = dist(_netPtr->getRandomNumberGenerator());

@@ -33,6 +33,7 @@ class Episode {
       std::map<std::string, int> observation;
       std::map<std::string, float> reward;
       bool done = false;
+      float factor = 1.0;
       for (int i=0; i<=_horizon-1; i++) {
         std::string stepID = std::to_string(i);
         
@@ -48,23 +49,26 @@ class Episode {
         _agentComponentPtr->act(action, results, agentsYAMLNode);
         actTime += (double)(std::clock()-begin)/CLOCKS_PER_SEC;
         begin = std::clock();
+        // LOG(INFO) << PrintUtils::mapToTupleString(_environmentPtr->getState());
         _environmentPtr->step(action, observation, reward, done);
         stepTime += (double)(std::clock()-begin)/CLOCKS_PER_SEC;
         begin = std::clock();
+        // LOG(INFO) << "true: " << PrintUtils::mapToTupleString(_environmentPtr->getState());
         _agentComponentPtr->observe(observation);
         observeTime += (double)(std::clock()-begin)/CLOCKS_PER_SEC;
 
-        float factor = 1.0;
         for (auto &[key, val]: reward) {
+          float discounted_reward = factor * val;
           if (results["episodic_return"].count(key) == 0){
             results["episodic_return"][key].push_back(val);
-            results["discounted_episodic_return"][key].push_back(val);
+            results["discounted_episodic_return"][key].push_back(discounted_reward);
           } else {
             results["episodic_return"][key][0] += val;
-            results["discounted_episodic_return"][key][0] += factor * val;
+            results["discounted_episodic_return"][key][0] += discounted_reward;
           }
-          factor *= _discountFactor;
         }
+
+        // LOG(INFO) << "[step" << std::to_string(i) << "] reward of agent 1: " << std::to_string(int(reward["1"]));
 
         if (_saveReplay == true) {
           _replay[stepID]["action"] = action;
@@ -76,6 +80,9 @@ class Episode {
         if (done == true) {
           break;
         }
+
+        factor *= _discountFactor;
+        // LOG(INFO) << std::to_string(factor);
       }
       if (_saveReplay == true) {
         std::ofstream fout(_pathToReplaysFolder+"episode"+std::to_string(_episodeID)+".yaml");
